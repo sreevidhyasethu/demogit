@@ -9,7 +9,7 @@ public class DemogitApplication {
 	public static void main(String[] args)
 	{
 		System.out.println("Git Demo Junior's commit!!!!");
-        System.out.println("Adding one more line");
+        System.out.println("Post Juniors Override ");
 		SpringApplication.run(DemogitApplication.class, args);
 	}
 }
